@@ -20,5 +20,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabellybarbosac}/count.svg" /></p> 
 <br>
 </div>
-   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B1B1&height=120&section=header"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B1B1&height=120&section=footer"/>
